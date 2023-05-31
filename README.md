@@ -1,0 +1,2 @@
+# stick
+SELF REPLICATING STICK!
