@@ -1,3 +1,9 @@
+![](https://raw.githubusercontent.com/LafeLabs/stick/main/trashmagic/stick3.png)
+
+![](https://raw.githubusercontent.com/LafeLabs/stick/main/trashmagic/stick2.png)
+
+
+
 # [TRASH MAGIC STICK!](https://www.github.com/lafelabs/stick)
 
 ## [LOCALHOST!](http://localhost/)
