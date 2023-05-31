@@ -210,4 +210,10 @@ sudo systemctl reload apache2
 
 Then when it's all set up, enable https with lets encrypt by way of nginx proxy manager.
 
+# FIVE ELEMENTS OF CYBER MAGIC
 
+ - [EARTH: GEOMETRON](https://github.com/LafeLabs/stick/blob/main/geometron.js)
+ - [AIR: CSS](https://github.com/LafeLabs/stick/blob/main/trashmagic.css)
+ - [WATER: HTML](https://github.com/LafeLabs/stick/blob/main/index.html)
+ - [FIRE: JAVASCRIPT](https://github.com/LafeLabs/stick/blob/main/trashmagic.js)
+ - [AETHER: PHP](https://github.com/LafeLabs/stick/blob/main/replicator.php)
