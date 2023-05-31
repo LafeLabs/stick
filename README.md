@@ -1,6 +1,6 @@
-# [STICK](https://www.github.com/lafelabs/stick)
+# [TRASH MAGIC STICK!](https://www.github.com/lafelabs/stick)
 
-## [LOCALHOST](http://localhost/)
+## [LOCALHOST!](http://localhost/)
 
 ## [WWW.TRASHROBOT.ORG](https://www.trashrobot.org)
 
@@ -12,6 +12,8 @@ STICKS AS SOCIAL MEDIA!
 
 
 ![](https://raw.githubusercontent.com/LafeLabs/stick/main/trashmagic/stick.png)
+
+FIND STICKS! ADD URL! ADD MESSAGES! ADD HASHTAGS! SHARE! REPILCATE! PUT STICKS IN NODAL POINTS ON THE NETWORK!
 
 
 ### TRASH MAGIC SERVER
@@ -45,27 +47,6 @@ USE SQUARES TO FABRICATE CUBES AND USE CUBES TO BUILD A WHOLE NEW WORLD!
 
 TRASH MAGIC SERVERS USE THE [TRASH MAGIC JAVASCRIPT LIBRARY](https://github.com/LafeLabs/square/blob/main/trashmagic.js) AND THE [TRASH MAGIC CSS LAYOUT](https://github.com/LafeLabs/square/blob/main/trashmagic.css) TO SPREAD MAXIMUM TRASH MAGIC!
 
-![](https://raw.githubusercontent.com/LafeLabs/square/main/trashmagic/cardboardside.jpg)
-
-
-![](https://raw.githubusercontent.com/LafeLabs/square/main/trashmagic/cardboardbottom.jpg)
-
-
-![](https://raw.githubusercontent.com/LafeLabs/square/main/trashmagic/cubetop.png)
-
-
-![](https://raw.githubusercontent.com/LafeLabs/square/main/trashmagic/dandylion0.png)
-
-
-![](https://raw.githubusercontent.com/LafeLabs/square/main/trashmagic/touchgrass.jpg)
-
-![](https://raw.githubusercontent.com/LafeLabs/square/main/trashmagic/freecube4.png)
-
-![](https://raw.githubusercontent.com/LafeLabs/square/main/trashmagic/freecube3.png)
-
-![](https://raw.githubusercontent.com/LafeLabs/square/main/trashmagic/freecube2.png)
-
-![](https://raw.githubusercontent.com/LafeLabs/square/main/trashmagic/freecube1.png)
 
 
 ### Replicate the Github using localhost
