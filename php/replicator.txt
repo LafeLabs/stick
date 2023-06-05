@@ -15,6 +15,7 @@ mkdir("data");
 mkdir("php");
 mkdir("trashmagic");
 mkdir("iconsymbols");
+mkdir("mixtape");
 
 copy("https://raw.githubusercontent.com/LafeLabs/stick/main/php/replicator.txt","replicator.php");
 

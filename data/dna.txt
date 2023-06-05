@@ -6,6 +6,7 @@
         "geometron.js",
         "icon-vr.html",
         "index.html",
+        "mixtape.html",
         "operator.html",
         "qrcode-page.html",
         "qrcode.html",
