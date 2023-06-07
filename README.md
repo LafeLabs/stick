@@ -2,7 +2,13 @@
 
 ![](https://raw.githubusercontent.com/LafeLabs/stick/main/trashmagic/stick2.png)
 
+![](https://raw.githubusercontent.com/LafeLabs/stick/main/trashmagic/log.png)
 
+
+![](https://raw.githubusercontent.com/LafeLabs/stick/main/trashmagic/hyperstick1.png)
+
+
+![](https://raw.githubusercontent.com/LafeLabs/stick/main/trashmagic/hyperstick2.png)
 
 # [TRASH MAGIC STICK!](https://www.github.com/lafelabs/stick)
 
